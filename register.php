@@ -1,8 +1,8 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://amazstref.herokuapp.com/execute.php';
-$BOT_TOKEN = '585295480:AAFQlzHnGdUGduAyB6xsxhZsozHeFVPIyWo';
+$WEBHOOK_URL = 'https://softwaretekbot.herokuapp.com/execute.php';
+$BOT_TOKEN = '584290927:AAGWhm09vzuDaQ6eMM8Ft2s7WY8dAhZIgWY';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
 $API_URL = 'https://api.telegram.org/bot' . $BOT_TOKEN .'/';
